@@ -1,0 +1,20 @@
+[
+    {
+        "title": "1984",
+        "author": "Gorge Orwell",
+        "genre": "Dystopian",
+        "year": 1949
+    },
+    {
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 1997
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": 1937
+    }
+]
