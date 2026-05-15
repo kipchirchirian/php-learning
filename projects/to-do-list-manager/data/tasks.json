@@ -1,0 +1,22 @@
+[
+    {
+        "description": "Do laundry",
+        "priority": "normal",
+        "completed": true
+    },
+    {
+        "description": "Fix bug",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "description": "Take a nap",
+        "priority": "low",
+        "completed": false
+    },
+    {
+        "description": "Watch Naruto new episode",
+        "priority": "high",
+        "completed": false
+    }
+]
